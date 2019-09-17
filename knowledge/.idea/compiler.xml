@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dictionary" />
+        <module name="encrypt" />
+        <module name="fileExport" />
+        <module name="mail" />
+        <module name="redisCache" />
+        <module name="reflect" />
+        <module name="urlFilter" />
+        <module name="userPower" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dictionary" target="1.8" />
+      <module name="encrypt" target="1.8" />
+      <module name="fileExport" target="1.8" />
+      <module name="knowledge" target="1.8" />
+      <module name="mail" target="1.8" />
+      <module name="redisCache" target="1.8" />
+      <module name="reflect" target="1.8" />
+      <module name="urlFilter" target="1.8" />
+      <module name="userPower" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

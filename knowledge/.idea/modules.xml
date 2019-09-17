@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dictionary/dictionary.iml" filepath="$PROJECT_DIR$/dictionary/dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encrypt/encrypt.iml" filepath="$PROJECT_DIR$/encrypt/encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileExport/fileExport.iml" filepath="$PROJECT_DIR$/fileExport/fileExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge.iml" filepath="$PROJECT_DIR$/knowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail/mail.iml" filepath="$PROJECT_DIR$/mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redisCache/redisCache.iml" filepath="$PROJECT_DIR$/redisCache/redisCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/route/route.iml" filepath="$PROJECT_DIR$/route/route.iml" />
+      <module fileurl="file://$PROJECT_DIR$/urlFilter/urlFilter.iml" filepath="$PROJECT_DIR$/urlFilter/urlFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userPower/userPower.iml" filepath="$PROJECT_DIR$/userPower/userPower.iml" />
+    </modules>
+  </component>
+</project>

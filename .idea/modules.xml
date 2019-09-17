@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/knowledge/dictionary/dictionary.iml" filepath="$PROJECT_DIR$/knowledge/dictionary/dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/encrypt/encrypt.iml" filepath="$PROJECT_DIR$/knowledge/encrypt/encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/fileExport/fileExport.iml" filepath="$PROJECT_DIR$/knowledge/fileExport/fileExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/knowledge.iml" filepath="$PROJECT_DIR$/knowledge/knowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/mail/mail.iml" filepath="$PROJECT_DIR$/knowledge/mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myknowledge.iml" filepath="$PROJECT_DIR$/.idea/myknowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/redisCache/redisCache.iml" filepath="$PROJECT_DIR$/knowledge/redisCache/redisCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/reflect/reflect.iml" filepath="$PROJECT_DIR$/knowledge/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/route/route.iml" filepath="$PROJECT_DIR$/knowledge/route/route.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/urlFilter/urlFilter.iml" filepath="$PROJECT_DIR$/knowledge/urlFilter/urlFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge/userPower/userPower.iml" filepath="$PROJECT_DIR$/knowledge/userPower/userPower.iml" />
+    </modules>
+  </component>
+</project>
